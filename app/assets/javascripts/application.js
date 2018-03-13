@@ -10,6 +10,14 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require modernizr.min
+//= require jquery.min
+//= require popper.min
+//= require bootstrap.min
+//= require waves
+//= require jquery.slimscroll
+//= require jquery.core
+//= require jquery.app
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
